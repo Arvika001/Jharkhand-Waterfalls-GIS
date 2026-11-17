@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-17T14:09:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2688949485",
+      "properties": {
+        "@id": "node/2688949485",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4669627,
+          23.1426702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2696096244",
+      "properties": {
+        "@id": "node/2696096244",
+        "GNS:dsg_code": "FLLS",
+        "GNS:dsg_string": "waterfall(s)",
+        "GNS:id": "14279308",
+        "GNS:uni": "18440761",
+        "name": "Sūgābāndh Falls",
+        "name:en": "Sugabandh Falls",
+        "source": "GNS",
+        "source:GNSdata": "geonames.nga.mil(GNS)-country file (20210809)",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1002727,
+          23.5742276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2732370290",
+      "properties": {
+        "@id": "node/2732370290",
+        "name": "JhunJhuniya Waterfall",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8973451,
+          23.6023717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2753722855",
+      "properties": {
+        "@id": "node/2753722855",
+        "name": "Lodh Falls",
+        "waterway": "waterfall",
+        "wikidata": "Q37423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.018629,
+          23.4788615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2827211755",
+      "properties": {
+        "@id": "node/2827211755",
+        "alt_name": "Hundrughāgh Falls",
+        "gns:dsg_code": "FLLS",
+        "gns:dsg_string": "waterfall(s)",
+        "gns:id": "14264803",
+        "gns:uni": "18420539",
+        "height": "98",
+        "name": "Hundru Falls",
+        "name:en": "Hundrughagh Falls",
+        "source:gnsdata": "geonames.nga.mil(GNS)-country file (20210809)",
+        "waterway": "waterfall",
+        "wikidata": "Q3694612",
+        "wikimedia_commons": "File:Hundru Falls, Jharkhand, India.jpg",
+        "wikipedia": "en:Hundru Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6661142,
+          23.4505832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6160618000",
+      "properties": {
+        "@id": "node/6160618000",
+        "height": "43",
+        "name": "Sita Falls",
+        "waterway": "waterfall",
+        "wikidata": "Q85801386",
+        "wikipedia": "en:Sita Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6438997,
+          23.3419625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6189619378",
+      "properties": {
+        "@id": "node/6189619378",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4665947,
+          23.1434775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6189619382",
+      "properties": {
+        "@id": "node/6189619382",
+        "name": "Dassam Falls",
+        "waterway": "waterfall",
+        "wikidata": "Q37918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4670882,
+          23.1467626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6190611212",
+      "properties": {
+        "@id": "node/6190611212",
+        "name": "Sadni Falls",
+        "waterway": "waterfall",
+        "wikidata": "Q37533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2020082,
+          23.3012557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6193254827",
+      "properties": {
+        "@id": "node/6193254827",
+        "name": "Usri Falls",
+        "waterway": "waterfall",
+        "wikidata": "Q37855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.3708746,
+          24.0966563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6196463238",
+      "properties": {
+        "@id": "node/6196463238",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0173274,
+          23.4790463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6210387330",
+      "properties": {
+        "@id": "node/6210387330",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2755704,
+          23.419548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9261962909",
+      "properties": {
+        "@id": "node/9261962909",
+        "ele": "600",
+        "height": "37",
+        "name": "Hirni falls",
+        "source": "Esri World Imagery",
+        "waterway": "waterfall",
+        "wikidata": "Q6430437",
+        "wikipedia": "en:Hirni Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3645098,
+          22.8076599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9307341300",
+      "properties": {
+        "@id": "node/9307341300",
+        "alt_name": "Gautamdhara Falls",
+        "height": "43",
+        "name": "Jonha Falls",
+        "waterway": "waterfall",
+        "wikidata": "Q38094",
+        "wikipedia": "en:Jonha Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6084101,
+          23.3420327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9310868898",
+      "properties": {
+        "@id": "node/9310868898",
+        "gns:dsg_code": "FLLS",
+        "gns:dsg_string": "waterfall(s)",
+        "gns:id": "14279348",
+        "gns:uni": "18440801",
+        "height": "98",
+        "name": "Ghagri Falls",
+        "name:en": "Ghagri Falls",
+        "source": "geonames.nga.mil(GNS)-country file (20210809)",
+        "waterway": "waterfall",
+        "wikidata": "Q37345",
+        "wikipedia": "en:Lower Ghaghri Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2458999,
+          23.5312745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9420778775",
+      "properties": {
+        "@id": "node/9420778775",
+        "name": "Rajrappa Falls",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q37433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7114304,
+          23.632968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10005194602",
+      "properties": {
+        "@id": "node/10005194602",
+        "name": "Motī Jharna Falls",
+        "name:en": "Motijharna Falls",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7261787,
+          25.2063353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10005198424",
+      "properties": {
+        "@id": "node/10005198424",
+        "gns:dsg_code": "FLLS",
+        "gns:dsg_string": "waterfall(s)",
+        "gns:id": "13511369",
+        "gns:uni": "17088064",
+        "name": "Motījharna Falls",
+        "name:en": "Motijharna Falls",
+        "source": "geonames.nga.mil(GNS)-country file (20220324))",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7259481,
+          25.2059556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10914017210",
+      "properties": {
+        "@id": "node/10914017210",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.648193,
+          24.9281251
+        ]
+      }
+    }
+  ]
+}
